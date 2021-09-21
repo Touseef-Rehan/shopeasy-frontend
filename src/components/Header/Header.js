@@ -76,7 +76,7 @@ function Header() {
       {/* logo */}
       <Link to="/">
         {/* <img className="headerlogo" src={headerlogo} /> */}
-        <h1 className="headerlogo" style="color:orange;">ShopEasy</h1>
+        <h1 className="headerlogo" >ShopEasy</h1>
       </Link>
       {/* search */}
       <div className="headersearch">
