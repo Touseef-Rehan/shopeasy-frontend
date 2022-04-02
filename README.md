@@ -1,3 +1,8 @@
+This is an interactive E-Commerce website developed to help users buy and sell products online.
+This is deployed on Heroku
+https://amazonclone-test.herokuapp.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
